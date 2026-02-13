@@ -7,7 +7,7 @@ The app allows users to sign in with Google, manage their personal bookmarks, an
 ---
 # Live Demo
 
-👉 https://smart-bookmark.vercel.app
+https://smart-bookmark-seven.vercel.app/login
 ---
 
 # Tech Stack
